@@ -127,6 +127,12 @@ if (favourite === 23) {
 ///////////////////////////////////////////////
 
 //Else if statement 
+const newFeature = function () {
+
+    console.log(`Welcome to the application`);
+}
+
+newFeature();
 
 const favourite = Number(prompt(`What is your favourite number?`));
 console.log(favourite);
