@@ -127,7 +127,7 @@ if (favourite === 23) {
 ///////////////////////////////////////////////
 
 //Else if statement 
-const newFeature = function () {
+/* const newFeature = function () {
 
     console.log(`Welcome to the application`);
 }
@@ -146,6 +146,49 @@ if (favourite === 23) {
     console.log(`7 is also a cool number`);
 } else {
     console.log(`The number is not one of  23. 9, 7`);
+} */
+
+///////////////////////////////////////////
+
+//lOGICAL OPERATORS 
+
+/* const hasDrivingLicense = true; //A
+const hasGoodVision = true; //B 
+console.log(hasDrivingLicense || hasGoodVision)
+//to state oposite use !
+console.log(!hasDrivingLicense)
+console.log(!hasGoodVision)
+
+const shouldDrive = hasDrivingLicense || hasGoodVision
+
+if(shouldDrive){
+
+    console.log("Sarah is able to drive!")
+}else{
+
+    console.log('Someone else should drive.... ')
 }
 
+const isTired = true //C
+console.log(hasDrivingLicense && hasGoodVision && !isTired) */
+
+///////////////////////////////////
+//Challange #3
+
+/*  const scoreDolphins = (96 +108 +89) / 3
+ const scoreKoalasa = (88 + 91 + 110) / 3 
+ 
+ if (scoreDolphins > scoreKoalasa){
+     console.log('Dolphins win the trophy')
+ }else if(scoreKoalasa > scoreDolphins){
+     console.log("Koalas win the trophy")
+ }else if(scoreDolphins === scoreKoalasa){
+     console.log("Both win the trophy")
+ } */
+
+     ////////////////////////////////////////////
+
+     //Switch statement 
+
+const day = "monday";
 
