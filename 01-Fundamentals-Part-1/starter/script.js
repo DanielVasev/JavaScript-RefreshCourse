@@ -190,5 +190,45 @@ console.log(hasDrivingLicense && hasGoodVision && !isTired) */
 
      //Switch statement 
 
-const day = "monday";
+/* const day = 'wednesday';
+
+switch(day){
+    case 'monday': 
+        console.log('Monday is amazing day')
+        console.log('As well is the first day')
+        break;
+    case 'tuesday':
+        console.log('Is the second day of the week')
+        console.log('We are just starting')
+        break;
+    case 'wednesday':
+        console.log('just wednesday')
+}
+ 
+ */
+
+////////////////////////////////////////////////////////////
+
+// Conditional operator 
+
+/* const age = 18;
+age >=18 ? console.log('Yep you can go in!!!'):
+console.log('Nop you are not allowed')
+
+const time = age >= 22 ? 'too old': 'to young'
+console.log(time) */
+
+/* const bill = 300
+//const tip = bill *0.15
+const sum = bill + tip
+
+switch(bill){
+    case bill <= 300 && bill >= 50: 
+        const tip = bill * 0.15;
+        const sum = bill + tip;
+        console.log(sum)
+        break;
+    case 'different':
+        //const tip = bill * 0.20
+} */
 
